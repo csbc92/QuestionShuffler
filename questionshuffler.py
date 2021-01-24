@@ -59,7 +59,6 @@ def wait_for_input():
         pressed_key = input("#\n# Press the Enter-key to reveal the answer..\n")
 
         if pressed_key == "":
-            answered_questions.append(random_question)
             break
         else:
             print("Invalid option..")
@@ -104,6 +103,7 @@ if __name__ == '__main__':
         print_regular(random_question.question)
 
         wait_for_input()
+        answered_questions.append(random_question)
 
         print_regular("ANSWER:\n" + random_question.answer)
         print_footer("", pad=150)
