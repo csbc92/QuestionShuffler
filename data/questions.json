@@ -1,0 +1,18 @@
+{
+  "questions": [
+
+    {
+      "question": "What is the definition of an invention?",
+      "answer": "An invention is a novel device, process, method or composition.\nThe invention must be Novel, Non-obvious and provide Utility."
+    },
+    {
+      "question": "How many days are there in a week?",
+      "answer": "7",
+      "priority": 1
+    },
+    {
+      "question": "Why did the chicken cross the road?",
+      "answer": "To get to the other side"
+    }
+  ]
+}

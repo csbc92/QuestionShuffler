@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<questions>
+		<element>
+			<question>What is the definition of an invention?</question>
+            <answer>
+                An invention is a novel device, process, method or composition.
+                The invention must be Novel, Non-obvious and provide Utility.
+			</answer>
+		</element>
+		<element>
+			<question>How many days are there in a week?</question>
+            <answer>7</answer>
+            <priority>1</priority>
+		</element>
+		<element>
+			<question>Why did the chicken cross the road?</question>
+            <answer>To get to the other side</answer>
+		</element>
+    </questions>
+</root>
