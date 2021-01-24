@@ -56,7 +56,7 @@ def select_question(questions):
 
 def wait_for_input():
     while True:
-        pressed_key = input("#\n# Press the Enter-key to get the answer to this question..\n")
+        pressed_key = input("#\n# Press the Enter-key to reveal the answer..\n")
 
         if pressed_key == "":
             answered_questions.append(random_question)
